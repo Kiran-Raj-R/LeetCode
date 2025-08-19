@@ -1,14 +1,17 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        freq = {}
-        for num in nums:
-            if num in freq:
-                freq[num] += 1
-            else:
-                freq[num] = 1
-        for k,v in freq.items():
-            if v > 1:
-                return True
-            else:
-                continue
-        return False
+        # freq = {}
+        # for num in nums:
+        #     if num in freq:
+        #         freq[num] += 1
+        #     else:
+        #         freq[num] = 1
+        # for k,v in freq.items():
+        #     if v > 1:
+        #         return True
+        #     else:
+        #         continue
+        # return False
+
+        numset = set(nums)
+        return len(nums) != len(numset)

@@ -5,9 +5,7 @@ class Solution:
         for num in nums:
             if num in freq:
                 freq[num] += 1
+                res.append(num)
             else:
                 freq[num] = 1
-            
-            if freq[num] == 2:
-                res.append(num)
         return res

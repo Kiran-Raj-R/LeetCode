@@ -6,10 +6,7 @@ class Solution:
                 pos.append(num)
             else:
                 neg.append(num)
-        l, r = 0, 0
-        while l < len(pos) and r < len(neg):
-            res.append(pos[l])
-            l += 1
-            res.append(neg[r])
-            r += 1
+        for i in range(len(pos)):
+            res.append(pos[i])
+            res.append(neg[i])
         return res

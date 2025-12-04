@@ -20,7 +20,7 @@ class Solution:
             else:
                 s_num = ord(s) - ord('0')
                 g_num = ord(g) - ord('0')
-                if count[s_num] < 0:
+                if count[s_num] < 0: 
                     c += 1
                 if count[g_num] > 0:
                     c += 1

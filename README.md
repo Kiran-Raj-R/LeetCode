@@ -11,6 +11,7 @@ LeetCode problems done.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [1323-maximum-69-number](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1323-maximum-69-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -23,6 +24,7 @@ LeetCode problems done.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |

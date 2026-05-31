@@ -7,6 +7,7 @@ LeetCode problems done.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1859-sorting-the-sentence](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1859-sorting-the-sentence/) | Easy |
+| [2942-find-words-containing-character](https://github.com/Kiran-Raj-R/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/Kiran-Raj-R/LeetCode/tree/main/3110-score-of-a-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -29,6 +30,7 @@ LeetCode problems done.
 | [0066-plus-one](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [2942-find-words-containing-character](https://github.com/Kiran-Raj-R/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |

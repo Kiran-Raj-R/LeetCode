@@ -6,6 +6,7 @@ LeetCode problems done.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Kiran-Raj-R/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/Kiran-Raj-R/LeetCode/tree/main/3110-score-of-a-string/) | Easy |
@@ -71,6 +72,7 @@ LeetCode problems done.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0125-valid-palindrome](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Divide and Conquer

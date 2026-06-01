@@ -34,6 +34,7 @@ LeetCode problems done.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0035-search-insert-position](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -56,6 +57,7 @@ LeetCode problems done.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0704-binary-search/) | Easy |
 ## Bit Manipulation

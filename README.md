@@ -38,6 +38,7 @@ LeetCode problems done.
 | [0066-plus-one](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0268-missing-number](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0704-binary-search](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Kiran-Raj-R/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/Kiran-Raj-R/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
@@ -56,6 +57,7 @@ LeetCode problems done.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0704-binary-search](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0704-binary-search/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |

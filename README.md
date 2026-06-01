@@ -7,6 +7,7 @@ LeetCode problems done.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Kiran-Raj-R/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/Kiran-Raj-R/LeetCode/tree/main/3110-score-of-a-string/) | Easy |
@@ -24,6 +25,7 @@ LeetCode problems done.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2974-minimum-number-game](https://github.com/Kiran-Raj-R/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
@@ -46,6 +48,7 @@ LeetCode problems done.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0242-valid-anagram](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0268-missing-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |

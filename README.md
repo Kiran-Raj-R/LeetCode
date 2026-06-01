@@ -70,6 +70,7 @@ LeetCode problems done.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@ LeetCode problems done.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |

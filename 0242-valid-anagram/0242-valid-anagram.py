@@ -1,19 +1,31 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        freq1,freq2 = {},{}
-        for ch in s:
-            if ch in freq1:
-                freq1[ch] += 1
-            else:
-                freq1[ch] = 1
+        # freq1,freq2 = {},{}
+        # for ch in s:
+        #     if ch in freq1:
+        #         freq1[ch] += 1
+        #     else:
+        #         freq1[ch] = 1
         
-        for c in t:
-            if c in freq2:
-                freq2[c] += 1
-            else:
-                freq2[c] = 1
+        # for c in t:
+        #     if c in freq2:
+        #         freq2[c] += 1
+        #     else:
+        #         freq2[c] = 1
         
-        if len(s) == len(t) and freq1 == freq2:
-            return True
-        else:
+        # if len(s) == len(t) and freq1 == freq2:
+        #     return True
+        # else:
+        #     return False
+        if len(s) != len(t):
             return False
+        freq = {}
+        for ch in s:
+            freq[ch] = freq.get(ch, 0) + 1
+        for ch in t:
+            if ch not in freq:
+                return False
+            freq[ch] -= 1
+            if freq[ch] < 0:
+                return False
+        return True

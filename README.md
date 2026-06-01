@@ -17,6 +17,7 @@ LeetCode problems done.
 | ------- | ------- |
 | [0066-plus-one](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1323-maximum-69-number](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1323-maximum-69-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -40,6 +41,7 @@ LeetCode problems done.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0268-missing-number](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0704-binary-search/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Kiran-Raj-R/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/Kiran-Raj-R/LeetCode/tree/main/2974-minimum-number-game/) | Easy |

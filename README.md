@@ -33,6 +33,7 @@ LeetCode problems done.
 | [0414-third-maximum-number](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0912-sort-an-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1051-height-checker](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1051-height-checker/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -53,6 +54,7 @@ LeetCode problems done.
 | [0704-binary-search](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0912-sort-an-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1051-height-checker](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1051-height-checker/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -87,6 +89,7 @@ LeetCode problems done.
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0912-sort-an-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [2974-minimum-number-game](https://github.com/Kiran-Raj-R/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -113,6 +116,7 @@ LeetCode problems done.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0912-sort-an-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,5 +138,18 @@ LeetCode problems done.
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0912-sort-an-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1051-height-checker](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1051-height-checker/) | Easy |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->

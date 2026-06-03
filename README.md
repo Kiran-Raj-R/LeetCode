@@ -27,6 +27,7 @@ LeetCode problems done.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
@@ -44,6 +45,7 @@ LeetCode problems done.
 | [0035-search-insert-position](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0268-missing-number](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0283-move-zeroes/) | Easy |
@@ -99,6 +101,7 @@ LeetCode problems done.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0283-move-zeroes](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0283-move-zeroes/) | Easy |

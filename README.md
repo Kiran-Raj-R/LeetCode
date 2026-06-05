@@ -51,6 +51,7 @@ LeetCode problems done.
 | [0268-missing-number](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
+| [0682-baseball-game](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -94,6 +95,7 @@ LeetCode problems done.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0682-baseball-game](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [2974-minimum-number-game](https://github.com/Kiran-Raj-R/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -152,4 +154,8 @@ LeetCode problems done.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0682-baseball-game](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0682-baseball-game/) | Easy |
 <!---LeetCode Topics End-->

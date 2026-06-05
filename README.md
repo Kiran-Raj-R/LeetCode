@@ -160,6 +160,11 @@ LeetCode problems done.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0682-baseball-game](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->

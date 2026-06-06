@@ -68,6 +68,7 @@ LeetCode problems done.
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Kiran-Raj-R/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/Kiran-Raj-R/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 ## Prefix Sum

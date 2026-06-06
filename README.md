@@ -43,6 +43,7 @@ LeetCode problems done.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0035-search-insert-position](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
@@ -72,6 +73,7 @@ LeetCode problems done.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0242-valid-anagram](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0242-valid-anagram/) | Easy |

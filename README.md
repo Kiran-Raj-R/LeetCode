@@ -169,8 +169,14 @@ LeetCode problems done.
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->

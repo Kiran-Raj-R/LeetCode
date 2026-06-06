@@ -52,6 +52,7 @@ LeetCode problems done.
 | [0268-missing-number](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
+| [0622-design-circular-queue](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0622-design-circular-queue/) | Medium |
 | [0682-baseball-game](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
@@ -127,6 +128,7 @@ LeetCode problems done.
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0622-design-circular-queue](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0622-design-circular-queue/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -169,11 +171,13 @@ LeetCode problems done.
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0622-design-circular-queue](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0622-design-circular-queue/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0622-design-circular-queue](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0622-design-circular-queue/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |

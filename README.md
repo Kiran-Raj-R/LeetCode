@@ -171,6 +171,7 @@ LeetCode problems done.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0682-baseball-game](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0682-baseball-game/) | Easy |
@@ -195,6 +196,7 @@ LeetCode problems done.
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -207,7 +209,12 @@ LeetCode problems done.
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->

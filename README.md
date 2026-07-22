@@ -63,6 +63,7 @@ LeetCode problems done.
 | [0905-sort-array-by-parity](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [1046-last-stone-weight](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1051-height-checker](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1051-height-checker/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -103,6 +104,7 @@ LeetCode problems done.
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0912-sort-an-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+| [1046-last-stone-weight](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [2974-minimum-number-game](https://github.com/Kiran-Raj-R/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |

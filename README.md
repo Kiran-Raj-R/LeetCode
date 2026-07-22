@@ -28,6 +28,7 @@ LeetCode problems done.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
@@ -51,6 +52,7 @@ LeetCode problems done.
 | [0035-search-insert-position](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0075-sort-colors](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -124,6 +126,7 @@ LeetCode problems done.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0075-sort-colors](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |

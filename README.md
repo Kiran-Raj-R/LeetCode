@@ -21,6 +21,7 @@ LeetCode problems done.
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1323-maximum-69-number](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1323-maximum-69-number/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +74,7 @@ LeetCode problems done.
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Kiran-Raj-R/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
@@ -246,4 +248,8 @@ LeetCode problems done.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->

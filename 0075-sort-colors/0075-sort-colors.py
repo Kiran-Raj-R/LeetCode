@@ -1,17 +1,26 @@
 class Solution:
-    def sortColors(self, nums: List[int]) -> None:
-        """
-        Do not return anything, modify nums in-place instead.
-        """
-        low, mid = 0,0
-        high = len(nums) - 1
-        while mid <= high:
-            if nums[mid] == 0:
-                nums[low], nums[mid] = nums[mid], nums[low]
-                low += 1
-                mid += 1
-            elif nums[mid] == 1:
-                mid += 1
-            else:
-                nums[mid], nums[high] = nums[high], nums[mid]
-                high -= 1
+
+    def heapify(self, arr, n, i):
+        largest = i
+        left = 2*i + 1
+        right = 2*i + 2
+        if left < n and arr[left] > arr[largest]:
+            largest = left
+        if right < n and arr[right] > arr[largest]:
+            largest = right
+        if largest != i:
+            arr[i], arr[largest] = arr[largest], arr[i]
+            self.heapify(arr, n, largest)
+
+    def heapSort(self, arr):
+
+        n = len(arr)
+        for i in range(n//2-1, -1, -1):
+            self.heapify(arr, n, i)
+        for i in range(n-1, 0, -1):
+            arr[0], arr[i] = arr[i], arr[0]
+            self.heapify(arr, i, 0)
+
+    def sortColors(self, nums):
+        
+        self.heapSort(nums)

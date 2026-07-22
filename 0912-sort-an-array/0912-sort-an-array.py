@@ -1,25 +1,21 @@
 class Solution:
+    def heapify(self, arr, n, i):
+        largest = i
+        left = 2 * i + 1
+        right = 2 * i + 2
+        if left < n and arr[left] > arr[largest]:
+            largest = left
+        if right < n and arr[right] > arr[largest]:
+            largest = right
+        if largest != i:
+            arr[i], arr[largest] = arr[largest], arr[i]
+            self.heapify(arr, n, largest)
+
     def sortArray(self, nums: List[int]) -> List[int]:
-        def merge(left,right):
-            result = []
-            i, j = 0, 0
-            while i < len(left) and j < len(right):
-                if left[i] <= right[j]:
-                    result.append(left[i])
-                    i += 1
-                else:
-                    result.append(right[j])
-                    j += 1
-            result.extend(left[i:])
-            result.extend(right[j:])
-            return result
-        
-        def merge_sort(arr):
-            if len(arr) <= 1:
-                return arr
-            mid = len(arr) // 2
-            left = merge_sort(arr[:mid])
-            right = merge_sort(arr[mid:])
-            return merge(left,right)
-        
-        return merge_sort(nums)
+        n = len(nums)
+        for i in range(n//2 - 1, -1, -1):
+            self.heapify(nums, n, i)
+        for i in range(n-1, 0, -1):
+            nums[0], nums[i] = nums[i], nums[0]
+            self.heapify(nums, i, 0)
+        return nums

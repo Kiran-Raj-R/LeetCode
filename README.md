@@ -20,6 +20,7 @@ LeetCode problems done.
 | [0268-missing-number](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1323-maximum-69-number](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1323-maximum-69-number/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +117,7 @@ LeetCode problems done.
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2974-minimum-number-game](https://github.com/Kiran-Raj-R/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |

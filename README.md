@@ -8,6 +8,7 @@ LeetCode problems done.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0125-valid-palindrome](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0208-implement-trie-prefix-tree](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1859-sorting-the-sentence/) | Easy |
@@ -89,6 +90,7 @@ LeetCode problems done.
 | [0001-two-sum](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0208-implement-trie-prefix-tree](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0268-missing-number/) | Easy |
@@ -196,6 +198,7 @@ LeetCode problems done.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0155-min-stack/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0622-design-circular-queue](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0622-design-circular-queue/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -252,4 +255,8 @@ LeetCode problems done.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 <!---LeetCode Topics End-->

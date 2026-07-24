@@ -10,6 +10,7 @@ LeetCode problems done.
 | [0125-valid-palindrome](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0212-word-search-ii](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0212-word-search-ii/) | Hard |
 | [0242-valid-anagram](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1859-sorting-the-sentence/) | Easy |
@@ -59,6 +60,7 @@ LeetCode problems done.
 | [0075-sort-colors](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0212-word-search-ii](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0212-word-search-ii/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0268-missing-number/) | Easy |
@@ -263,4 +265,13 @@ LeetCode problems done.
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0212-word-search-ii](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0212-word-search-ii/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0212-word-search-ii](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0212-word-search-ii/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0212-word-search-ii](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0212-word-search-ii/) | Hard |
 <!---LeetCode Topics End-->

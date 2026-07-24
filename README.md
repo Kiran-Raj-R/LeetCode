@@ -9,6 +9,7 @@ LeetCode problems done.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0125-valid-palindrome](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0242-valid-anagram](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1859-sorting-the-sentence/) | Easy |
@@ -199,6 +200,7 @@ LeetCode problems done.
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0622-design-circular-queue](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0622-design-circular-queue/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -247,6 +249,7 @@ LeetCode problems done.
 | [0094-binary-tree-inorder-traversal](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -259,4 +262,5 @@ LeetCode problems done.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 <!---LeetCode Topics End-->

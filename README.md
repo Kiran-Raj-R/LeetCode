@@ -25,6 +25,7 @@ LeetCode problems done.
 | [1323-maximum-69-number](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1323-maximum-69-number/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Kiran-Raj-R/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +84,7 @@ LeetCode problems done.
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Kiran-Raj-R/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/Kiran-Raj-R/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Kiran-Raj-R/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |

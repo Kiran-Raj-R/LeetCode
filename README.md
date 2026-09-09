@@ -79,6 +79,7 @@ LeetCode problems done.
 | [1051-height-checker](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1051-height-checker/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1534-count-good-triplets](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1534-count-good-triplets/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -278,4 +279,8 @@ LeetCode problems done.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0212-word-search-ii](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0212-word-search-ii/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1534-count-good-triplets](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1534-count-good-triplets/) | Easy |
 <!---LeetCode Topics End-->

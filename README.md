@@ -84,6 +84,7 @@ LeetCode problems done.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
+| [2540-minimum-common-value](https://github.com/Kiran-Raj-R/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Kiran-Raj-R/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/Kiran-Raj-R/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Kiran-Raj-R/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
@@ -102,6 +103,7 @@ LeetCode problems done.
 | [0242-valid-anagram](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [2540-minimum-common-value](https://github.com/Kiran-Raj-R/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,6 +113,7 @@ LeetCode problems done.
 | [0704-binary-search](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kiran-Raj-R/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2540-minimum-common-value](https://github.com/Kiran-Raj-R/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +153,7 @@ LeetCode problems done.
 | [0905-sort-array-by-parity](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Kiran-Raj-R/LeetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kiran-Raj-R/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [2540-minimum-common-value](https://github.com/Kiran-Raj-R/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
